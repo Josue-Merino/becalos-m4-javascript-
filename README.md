@@ -1,4 +1,4 @@
-# Bécalos Tech Challenge - Módulo 3: JavaScript Avanzado y Algoritmos
+# Bécalos Tech Challenge - Módulo 4: JavaScript Avanzado y Algoritmos
 
 Este repositorio está dedicado a recopilar todos los ejercicios y proyectos desarrollados durante el **Módulo 4** del programa **Bécalos Tech Challenge**. El enfoque principal de esta etapa es el dominio profundo de JavaScript, abarcando desde las características modernas de ECMAScript y estructuras de datos, hasta algoritmos avanzados para la resolución eficiente de problemas y manejo de archivos.
 
