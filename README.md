@@ -20,7 +20,7 @@ A continuación se detallan los módulos y temas correspondientes a las clases d
 | :--- | :--- | :---: |
 | **01. Introducción a ECMAScript** | Características modernas de JavaScript, sintaxis y nuevas funcionalidades. | Hecho |
 | **02. Estructuras de Datos** | Implementación y manejo de estructuras lineales y no lineales en JS. | Hecho |
-| **03. Métodos de Arreglos** | Uso avanzado de funciones integradas para manipulación de arrays (map, filter, reduce, etc.). | ⏳ |
+| **03. Métodos de Arreglos** | Uso avanzado de funciones integradas para manipulación de arrays (map, filter, reduce, etc.). | Hecho |
 | **04. Algoritmo de Los 2 Punteros** | Técnica de optimización en arreglos/listas mediante punteros simultáneos. | ⏳ |
 | **05. Algoritmo Sliding Window** | Técnica de ventana deslizante para subarreglos y problemas de optimización. | ⏳ |
 | **06. Recursión y backtracking** | Resolución de problemas mediante funciones recursivas y búsqueda exhaustiva. | ⏳ |
