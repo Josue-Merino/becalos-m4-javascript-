@@ -22,8 +22,8 @@ A continuación se detallan los módulos y temas correspondientes a las clases d
 | **02. Estructuras de Datos** | Implementación y manejo de estructuras lineales y no lineales en JS. | Hecho |
 | **03. Métodos de Arreglos** | Uso avanzado de funciones integradas para manipulación de arrays (map, filter, reduce, etc.). | Hecho |
 | **04. Algoritmo de Los 2 Punteros** | Técnica de optimización en arreglos/listas mediante punteros simultáneos. | Hecho |
-| **05. Algoritmo Sliding Window** | Técnica de ventana deslizante para subarreglos y problemas de optimización. | ⏳ |
-| **06. Recursión y backtracking** | Resolución de problemas mediante funciones recursivas y búsqueda exhaustiva. | ⏳ |
+| **05. Algoritmo Sliding Window** | Técnica de ventana deslizante para subarreglos y problemas de optimización. | Hecho |
+| **06. Recursión y backtracking** | Resolución de problemas mediante funciones recursivas y búsqueda exhaustiva. | Hecho |
 | **07. Divide y Vencerás** | Estrategia algorítmica de particionamiento (Merge Sort, Quick Sort, etc.). | ⏳ |
 | **08. Introducción al manejo de archivos con Node.js** | Operaciones del sistema de archivos (FS) utilizando el entorno de ejecución Node.js. | ⏳ |
 
