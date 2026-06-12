@@ -1,5 +1,5 @@
 
-# Divide y Vencerás
+# Introducción al manejo de archivos con Node.js
 El manejo de archivos con Node.js es una habilidad clave para cualquier desarrollador backend. Entender cómo leer, escribir y gestionar archivos te permitirá crear aplicaciones robustas y útiles. Aunque al principio puede parecer complicado, con práctica y experimentación se vuelve una herramienta indispensable.
 La solución a este ejercicio esta en el archivo `archivosNode.js`.
 
